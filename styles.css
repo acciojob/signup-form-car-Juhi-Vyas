@@ -1,2 +1,7 @@
 
-/* Your CSS Code here. */
+#name {
+	margin: 4px;
+	padding: 2px;
+	border:1px solid black;
+	border-radius: 5px;
+}
